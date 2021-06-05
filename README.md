@@ -4,9 +4,11 @@
 </p>
 
 <p>
-  <a href="https://twitter.com/sourav_kalal" target="_blank">
-    <img alt="Twitter:sourav_kalal" src="https://img.shields.io/twitter/follow/sourav\_kalal.svg?style=social" />
+  <a href="https://www.linkedin.com/in/souravkalal/" target="_blank">
+    <img alt="linkedin : souravkalal" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
 </p>
 
 > This repository contains programming example of course &#34;Programming in Java&#34; which is offered by NPTEL
