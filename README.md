@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to PROGRAMMING IN JAVA 👋</h1>
 <p>
-<img alt="Banner" style="width:100%;"src="Programming_in_Java.png" />
+<img alt="Banner" src="Programming_in_Java.png" />
 </p>
 
 <p>
   <a href="https://twitter.com/sourav_kalal" target="_blank">
-    <img alt="Twitter: sourav_kalal" src="https://img.shields.io/twitter/follow/sourav\_kalal.svg?style=social" />
+    <img alt="Twitter:sourav_kalal" src="https://img.shields.io/twitter/follow/sourav\_kalal.svg?style=social" />
   </a>
 </p>
 
