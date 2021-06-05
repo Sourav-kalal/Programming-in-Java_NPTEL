@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to PROGRAMMING IN JAVA 👋</h1>
-<p>
+<p align="center">
 <img alt="Banner" src="Programming_in_Java.png" />
 </p>
 
